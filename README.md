@@ -17,7 +17,7 @@
 - 支持所有常用协议
 - 一键添加 Shadowsocks
 - 一键添加 VMess-(TCP/mKCP/QUIC)
-- 一键添加 VMess-(WS/H2/gRPC)-TLS
+- 一键添加 VMess-(WS/H2/gRPC)-TLS123
 - 一键添加 VLESS-(WS/H2/gRPC)-TLS
 - 一键添加 Trojan-(WS/H2/gRPC)-TLS
 - 一键添加 VMess-(TCP/mKCP/QUIC) 动态端口
